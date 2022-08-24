@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "riyajahmad2001",
-    "password": "Riyaj@123",
-    "database": "ecommercea_app1",
-    "host": "db4free.net",
+    "username": "root",
+    "password": "null",
+    "database": "ecommercea_app",
+    "host": "127.0.0.1",
     "dialect": "mysql"
     
   },
